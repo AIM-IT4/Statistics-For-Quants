@@ -11,7 +11,6 @@ You can access and download the full PDF [here](./statistics_for_quants.pdf).
 
 ![Preview of the PDF](./Statistics.png)
 
-Replace "statistics_for_quants_preview.png" with the path to the image you've created as a preview (if you choose to include one).
 
 ## Additional Information
 
